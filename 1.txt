@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+
+  <head>
+    <title> My first WEbpage
+    </title>
+	
+	<meta charset="utf-8" />
+		
+		<style>
+			body { background-color: #585858; }
+			body { font-size: 100% }
+			body { text-align: center; }
+			h1 { color: white;}
+			h1 { text-shadow: 2px 1px black; }
+			h1 { text-align: center; }
+			h1 { font-size: 40px; }
+			p { font-size: 20px; }
+			p ( color: white;)
+			h1 { font-size: 50px; }
+			h2 { text-align: center; }
+			h2 { color: white; }
+			h3 { color: lightgray;}
+			h3 { text-align: center; }
+			h3 { text-shadow: 1px 1px 2px; }
+			ol { text-align: center;}
+			p {color:white;}
+			a:link	{color: #E0F2F7; }
+			a:visited { color : #E0F2F7; }
+			a:hover {color: #2E9AFE;}
+		</style>
+  </head>
+  
+  <body>
+    <h1>
+    My First Webpage
+    </h1>
+    
+	
+	<p> This is a test page </P>
+	
+	<a href="https://www.youtube.com/watch?v=YQHsXMglC9A" target="_blank">
+			<img src="hello2.gif" alt="flag" width="350" height="220">
+		</a>
+	
+	<h2>Making Menu</h2>
+		<h3>
+		
+				<a href="My First Link.html">My First Link</a>
+				<div>
+				<a href="My Second Link.html">My Second Link</a>
+				<div>
+				<a href="My Third Link.html">My Third Link</a>
+				<div>
+				<a href="http://tcpschool.com/">TCP SCHOOL.COM</a>
+				<div>
+				<a href="http://www.google.com/">GOOGLE</a>
+				<div>
+			    <a href="http://www.naver.com/">NAVER</a>
+				<div>
+				<a href="https://html-color-codes.info/Korean/?">HTML COLOR CODES</a>
+								
+			 <!-- 텍스트 앞에 미리보기표를 부티고 싶으면 ul을, 숫자를 붙이고 싶으면 ol -->
+		</h3> 		
+		
+  </body>
+</html>
